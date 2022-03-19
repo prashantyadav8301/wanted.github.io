@@ -9,7 +9,6 @@
     margin: auto;
     border: 2px solid black;
     width: 30vw;
-    /* height: 95vh; */
 }
 
 p {
@@ -25,7 +24,7 @@ p {
     width: 20vw;
 }
 
-@media screen and (max-width:396px) {
+@media screen and (max-width:398px) {
     .container {
         text-align: center;
         margin: auto;
